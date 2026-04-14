@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [04/14/2926]
+**Effective Date:** [04/14/2026]
 
 Doc Scanner ("we", "our", or "us") respects your privacy. This Privacy Policy explains how our app handles your information.
 
